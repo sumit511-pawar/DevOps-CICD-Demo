@@ -1,2 +1,1 @@
-pip install flask
-pip freeze > requirements.txt
+Flask==2.2.5
